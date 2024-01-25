@@ -12,6 +12,8 @@
 
     <!-- Styles -->
     <link rel="stylesheet" href="/css/main.css">
+
+    @vite(['resources/scss/main.scss' , 'resources/css/main.css', 'resources/js/app.js'])
 </head>
 
 <body>
